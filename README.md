@@ -3,6 +3,12 @@
 A modern and interactive Spin Wheel Game built using HTML, CSS, and JavaScript.  
 This game allows users to spin the wheel and randomly select prizes, names, or rewards with smooth animations and responsive design.
 
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/pindhe/Spin-Wheel-game/blob/main/Screenshot%202026-05-01%20181543.png?raw=true" width="900"/>
+</p>
+
 ---
 
 ## ✨ Features
@@ -23,9 +29,3 @@ This game allows users to spin the wheel and randomly select prizes, names, or r
 - JavaScript
 
 ---
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://github.com/pindhe/Spin-Wheel-game/blob/main/Screenshot%202026-05-01%20181543.png?raw=true" width="900"/>
-</p>
